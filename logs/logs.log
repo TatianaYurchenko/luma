@@ -1,0 +1,6 @@
+ERROR | 2024-05-24 09:16:04 | Expected 200 but get 201 | file: (name)s
+DEBUG | 2024-05-24 09:18:18 | This is a debug message | file: (name)s
+DEBUG | 2024-05-24 09:23:51 | This is a debug message | file: my_logger
+DEBUG | 2024-05-24 09:26:58 | This is a debug message | file: my_logger | 52
+DEBUG | 2024-05-24 09:27:15 | This is a debug message | file: my_logger | 52
+ERROR | 2024-05-24 09:27:16 | Expected 200 but get 201 | file: tests/test_pet/test_create_pet.py::TestCreatePet::test_create_pet (setup) | 8
